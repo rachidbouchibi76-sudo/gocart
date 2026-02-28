@@ -43,7 +43,7 @@ First, install the dependencies. We recommend using `npm` for this project.
 
 ```bash
 npm install
-```
+``
 
 Then, run the development server:
 
